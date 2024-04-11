@@ -16,4 +16,4 @@ pnpm dev
 - Tailwind
 
 ## Preview
-![alt text](.docs/image.png)
+![alt text](.docs/preview.png)
